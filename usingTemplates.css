@@ -8,7 +8,7 @@ body{
   display: flex;
   flex-direction: column;
   flex-grow: 1;
-  background-color: cadetblue;
+  background-color: grey;
   border-radius: 2px;
   padding:10px;
 }
@@ -16,7 +16,7 @@ body{
   display: flex;
   flex-direction: column;
   flex-grow: 10;
-  background-color: cadetblue;
+  background-color: purple;
   margin: 0 0 0 1px;
   border-radius: 2px;
   padding: 10px;
